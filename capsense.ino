@@ -1,3 +1,5 @@
+#include <CapacitiveSensor.h>
+
 CapacitiveSensor sensorA = CapacitiveSensor(10,9);
 CapacitiveSensor sensorB = CapacitiveSensor(10,11);
 

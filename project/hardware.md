@@ -5,7 +5,7 @@ You'll need the following components:
 - 2 Light-dependent Resistors, like [this one from Jameco](http://www.jameco.com/webapp/wcs/stores/servlet/Product_10001_10001_202382_-1).
 - 2&times; 10 k&Omega; resistors.
 - 2 paperclips
-- 2&times; 10 M&Omega; resistors.
+- 2&times; 1 M&Omega; resistors.
 - 10 wires.
 - Solderless breadboard.
  

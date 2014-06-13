@@ -10,3 +10,4 @@
     
     Then, replace the `getAValue` and `getBValue` functions with the following code:
     <%= capsense.ino =%>
+    Learn more about capacitive sensing at the [Arduino playground](http://playground.arduino.cc/Main/CapacitiveSensor)
